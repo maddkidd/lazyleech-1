@@ -57,6 +57,12 @@ test 0004.mkv
 - [POINTS TO BE NOTED](#points-to-be-noted)
 
 
+# HEROKU 
+click the button and
+Enter the valus
+<p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+
+
 # What is this repo about?
 This is a telegram bot writen with pyrogram for leeching files on the internet to Telegram.
 
